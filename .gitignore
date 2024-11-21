@@ -1,3 +1,5 @@
 node_modules/**/*
 .expo/*
 npm-debug.*
+config.bat
+node_modules
